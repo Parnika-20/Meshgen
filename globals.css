@@ -1,0 +1,17 @@
+# MeshGen Railway Dynamic Website
+
+## Setup
+
+npm install
+npm run dev
+
+## Railway Deployment
+
+1. Create Railway project
+2. Upload this project
+3. Railway auto deploys
+
+## Firebase
+
+Add Firebase keys inside:
+lib/firebase.js
